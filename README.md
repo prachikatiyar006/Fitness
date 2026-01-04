@@ -128,12 +128,10 @@ http://localhost:8080/<project-name>/
 (Default page opens login.jsp)
 
 ## 🔐 Sample Login Credentials
-Role	Email	Password
-Admin	admin@test.com
-	admin123
-Trainer	trainer1@test.com
-	trainer123
-User	user1@test.com
-	user123
 
-## 👩‍💻 Developed By: Team 
+Role	Email	Password
+Admin	admin@test.com   admin123
+Trainer	trainer1@test.com   trainer123
+User	user1@test.com   user123
+
+## 👩‍💻 Developed By: 405 Found
